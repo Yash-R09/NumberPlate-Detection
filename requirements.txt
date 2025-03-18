@@ -1,7 +1,9 @@
-ultralytics==8.0.114
+ultralytics==8.3.91
 pandas
 opencv-python
 numpy
 scipy
 easyocr
 filterpy
+streamlit==1.43.2
+pytesseract==0.3.13
