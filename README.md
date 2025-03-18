@@ -13,7 +13,10 @@ conda activate ./env
 ```bash
 pip install -r requirements.txt
 ```
-##Dependencies
+
+
+## Dependencies
+
 The sort module needs to be downloaded from [this repository](https://github.com/abewley/sort).
 
 ```bash
