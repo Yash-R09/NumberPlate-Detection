@@ -1,4 +1,4 @@
-## NumberPlate-Detection
+# NumberPlate-Detection
 
 ## Project Setup
 * Make an environment with python=3.10 using the following command 
